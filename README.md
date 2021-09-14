@@ -1,18 +1,10 @@
+![banner](https://user-images.githubusercontent.com/86086544/133339651-59cf5939-d82f-43d3-ac5c-b25573989f93.png)
 # projetos_data_science-
 Meus projetos de Data Science 
-[ ! [autor] (https://img.shields.io/badge/author-lianesales-red.svg) ] (https://www.linkedin.com/in/liane-sales-44706280/)  [ ! [] (https://img.shields.io/badge/python-3.7+-blue.svg) ] (https://www.python.org/downloads/release/python-365/)  [ ! [Licença GPLv3] (https://img.shields.io/badge/License-GPLv3-blue.svg) ] (http://perso.crans.org/besson/LICENSE.html)  [ ! [contribuições bem-vindas] (https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) ] (https://github.com/carlosfab/data_science/issues)
 
 
-
-< p  align = "center" >
-
-  < img  src = "https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png"  >
-
-</ p >
-
-# Liane Sales
-
-< sub > * Cientista de dados júnior </ sub >
+# Liane Sales 
+< sub > * Cientista de dados júnior 
 
 Como um cientista de dados iniciante, estou em busca de oportunidades para aumentar meu conhecimento e prática no Aprendizado de Máquina para desenvolver um pensameno crítico e habilidades de resolução de problemas. 
 
